@@ -109,3 +109,7 @@ nav ul li a:hover{
     background-color: #23cdaf;
     transition: all ease 0.2s;
 }
+@media only screen and (max-width:1000px){
+    
+}
+    
